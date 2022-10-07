@@ -1,1 +1,7 @@
 @import "reset.css";
+
+h1,
+h2,
+h3 {
+    font-family: "Futura", Helvetica, Arial, sans-serif;
+}
